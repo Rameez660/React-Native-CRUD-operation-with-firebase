@@ -1,0 +1,44 @@
+expo account:
+Rameez660
+Rameez@660
+
+install nodejs
+path of nodejs setup
+C:\Program Files\nodejs\
+
+
+REACT (for web development):
+cmd me  
+- npm install -g create-react-app
+- create-react-app --version
+agr version nh batae tou 
+https://stackoverflow.com/questions/59561788/im-getting-error-like-this-while-creating-react-app
+- create-react-app project_name
+- cd project_name
+- npm start
+
+awesomeapp is the REACTJS project..
+myproject is the REACT NATIVE project..
+
+x--------------------------------------------------------x
+
+REACT NATIVE (for mobile development):
+C:\Users\Hp\AppData\Roaming\npm
+in CMD:
+- npm install expo-cli --global         <----- globally install this command
+- expo -v
+- expo init myproject
+	choose blank
+- npm start
+     OR
+  expo start
+     OR
+  react-native start
+
+then download EXPO CLIENT mobile app to run the project on mobile open the app and scan the bar code then auto run the project..
+also run on pc brouwser and make tab responsive..
+
+
+
+'function base' and 'class base' apps in react native but we use class base is professionally.
+
